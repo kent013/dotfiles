@@ -1,0 +1,11 @@
+defutf8 on
+encoding utf8
+defencoding utf8
+escape 
+startup_message off
+autodetach on
+hardstatus alwayslastline "%w%=%c"
+
+defbce "on"
+term xterm-256color
+termcapinfo xterm-256color 'is=rmJH?7h?1;4;6l'
